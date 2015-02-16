@@ -1,0 +1,1 @@
+#CopyHelper_For_GMStudio_Android
