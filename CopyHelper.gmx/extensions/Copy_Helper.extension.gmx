@@ -27,14 +27,14 @@
   <IncludedResources/>
   <files>
     <file>
-      <filename>Extension1.ext</filename>
-      <origname>extensions\Extension1.ext</origname>
+      <filename>Copy_Helper.ext</filename>
+      <origname>extensions\Copy_Helper.ext</origname>
       <init></init>
       <final></final>
       <kind>4</kind>
       <ConfigOptions>
         <Config name="Default">
-          <CopyToMask>2097160</CopyToMask>
+          <CopyToMask>9223372036854775807</CopyToMask>
         </Config>
       </ConfigOptions>
       <functions>

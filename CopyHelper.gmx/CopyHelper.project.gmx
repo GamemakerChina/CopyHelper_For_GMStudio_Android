@@ -48,7 +48,6 @@
   <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
-  <scripts name="scripts"/>
   <objects name="objects">
     <object>objects\obj_copyer</object>
   </objects>
@@ -56,8 +55,8 @@
     <room>rooms\room0</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">42051.5403258796</constant>
-    <constant name="GM_version">'1.0.18'</constant>
+    <constant name="GM_build_date">42051.6468192708</constant>
+    <constant name="GM_version">'1.0.24'</constant>
   </constants>
   <help>
     <rtf>help.rtf</rtf>
