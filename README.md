@@ -7,6 +7,6 @@ GameMaker:Studio  android 沙盒所指的可读可写的文件夹 /data/data/&lt
 
 此外，复制文件到外部后，可方便第三方扩展的调用。
 
-所以，必须写了这个 Extension 
+所以，就做了这个 Extension 
 
 仅支持 android
